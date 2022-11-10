@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SteveJava
 - 👀 I’m interested in business and programming
 - 🌱 I’m currently learning Computer Science, with Java being my home language
-- 💞️ I’m looking to collaborate on any random Java projects, or Solidity adn Ethereum based projects
+- 💞️ I’m looking to collaborate on any random Java projects
+- I think AI can change the world as well as blockchain technology
 - 📫 How to reach me: email on zakwankhan2003@gmail.com
 
 <!---
